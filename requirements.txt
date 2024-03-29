@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+medium-api
+langchain
+langchain_google_genai
+langchain_openai
